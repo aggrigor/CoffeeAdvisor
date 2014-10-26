@@ -1,0 +1,42 @@
+.main {
+	background-image: url("index.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.main h1{
+	text-align: center;
+	color: #FFFF99;
+	font-size: 52px;
+	font-family: 'Pacifico', cursive;
+	font-weight: bold;
+}
+.main form {
+        position: absolute;
+        width: 50%;
+        left: 530px;
+        top: 200px;
+	color:  #FFFF99;
+	font-size: 32px;
+	font-family: 'Pacifico', cursive;
+	font-weight: bold;
+}
+.main select {
+        font-family: 'Verdana', serif;
+        font-size: 15px;
+        width: 50%;
+}
+.main button{
+        alignment-baseline:middle; 
+	background-color: #581700;
+	color: #D99B64;
+}
+.main ul {
+	position: absolute;
+        left: 530px;
+        top: 200px;
+	color:  #FFFFA3;
+	font-size: 32px;
+	font-family: 'Pacifico', cursive;
+	font-weight: bold;
+}	
+
